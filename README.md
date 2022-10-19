@@ -1,4 +1,3 @@
-Estimating mortality associated with seasonal influenza among adults aged 65 years and above in China from 2011-2016: A systematic review and model analysis
-Kaige Dong, Hui Gong, Guangjie Zhong, Xiaowei Deng, Yuyang Tian, Minghan Wang, Hongjie Yu†, Juan Yang*†
-†These authors jointly supervised this work.
-*Correspondence: Juan Yang, yangjuan@fudan.edu.cn
+Influenza-associated-mortality-data
+===
+This is a dataset of the influenza-associated mortality among older adults aged 65 years and above and relatived variables, including demography, economics, meteorology, health service, and influenza virus activity data. 
