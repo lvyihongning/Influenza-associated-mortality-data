@@ -1,3 +1,3 @@
 Influenza-associated-mortality-data
 ===
-This is a dataset of the influenza-associated mortality among older adults aged 65 years and above and relatived variables, including demographics, economics, meteorology, health services, and influenza virus activity data. 
+This is a dataset of the potential factors that influence influenza-associated mortality, including demographics, economics, meteorology, health services, and influenza virus activity data. 
